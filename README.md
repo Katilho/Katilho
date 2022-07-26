@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+I am Pedro Martins, a Software Engineering student at [Universidade do Minho](https://www.uminho.pt/EN/), Braga.  
 
 
 
@@ -7,6 +9,8 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katilho&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Katilho)
+
+ - :inbox_tray: [Email](mailto:pemicama12@gmail.com)  
 
 Here are some ideas to get you started:
 
