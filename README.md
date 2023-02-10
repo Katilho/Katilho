@@ -4,26 +4,26 @@ I am Pedro Martins, a Software Engineering student at [Universidade do Minho](ht
 
 ### University Projects 🎓
 
-#### 1º year 1º semester
+#### 1<sup>st</sup> year 1<sup>st</sup> semester
 - [Laboratórios de Informática I](https://github.com/Katilho/LI1)
 ---
 
-#### 1º year 2º semester
+#### 1<sup>st</sup> year 2<sup>nd</sup> semester
 - [Laboratórios de Informática II](https://github.com/Katilho/LI2)
 ---
 
-#### 2º year 1º semester
+#### 2<sup>nd</sup> year 1<sup>st</sup> semester
 - [Laboratórios de Informática III](https://github.com/Katilho/LI3)
 ---
 
-#### 2º year 2º semester
+#### 2<sup>nd</sup> year 2<sup>nd</sup> semester
 - [Sistemas Operativos](https://github.com/Katilho/SO)
 - [Programação Orientada aos Objetos](https://github.com/Katilho/POO)
 - [Investigação Operacional](https://github.com/Katilho/IO)
 - [Redes de Computadores](https://github.com/Katilho/RC)
 ---
 
-#### 3º year 1º semester
+#### 3<sup>rd</sup> year 1<sup>st</sup> semester
 - [Inteligência Artificial](https://github.com/Katilho/Trabalho-Inteligencia-Artificial)
 - [Sistemas Distribuídos](https://github.com/Katilho/Trabalho-SD-2022-2023)
 ---
