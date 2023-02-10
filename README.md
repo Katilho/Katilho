@@ -21,8 +21,13 @@ I am Pedro Martins, a Software Engineering student at [Universidade do Minho](ht
 - [Programação Orientada aos Objetos](https://github.com/Katilho/POO)
 - [Investigação Operacional](https://github.com/Katilho/IO)
 - [Redes de Computadores](https://github.com/Katilho/RC)
-
 ---
+
+#### 3º year 1º semester
+- [Inteligência Artificial](https://github.com/Katilho/Trabalho-Inteligencia-Artificial)
+- [Sistemas Distribuídos](https://github.com/Katilho/Trabalho-SD-2022-2023)
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katilho&theme=dracula&hide=Roff)
 
 <!--
