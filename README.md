@@ -2,6 +2,8 @@
 
 I am Pedro Martins, a Software Engineering student at [Universidade do Minho](https://www.uminho.pt/EN/).  
 
+[![LinkedIn badge](https://img.shields.io/badge/-Pedro%20Martins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-martins-31700624b/)
+
 ### University Projects 🎓
 
 #### 1<sup>st</sup> year 1<sup>st</sup> semester
@@ -28,12 +30,13 @@ I am Pedro Martins, a Software Engineering student at [Universidade do Minho](ht
 - [Sistemas Distribuídos](https://github.com/Katilho/Trabalho-SD-2022-2023)
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katilho&theme=dracula&hide=Roff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katilho&layout=compact&theme=dracula&hide_border=true)
+
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Katilho&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)  
 
 ![](https://komarev.com/ghpvc/?username=Katilho)
 
- - :inbox_tray: [Email](mailto:pemicama12@gmail.com)  
+ - :inbox_tray: [Email](mailto:)  
 -->
