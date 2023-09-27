@@ -1,6 +1,7 @@
 ## Hello there! 👋
 
-I am Pedro Martins, a Software Engineering student at [Universidade do Minho](https://www.uminho.pt/EN/).  
+Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos no Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt/EN/).  
+<!--I am Pedro Martins, a Software Engineering student at [Universidade do Minho](https://www.uminho.pt/EN/).-->
 
 ### Contacts:
 [![LinkedIn badge](https://img.shields.io/badge/-Pedro%20Martins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-martins-31700624b/)
