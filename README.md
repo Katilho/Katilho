@@ -34,14 +34,23 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 ---
 
 ### Languages and Tools
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+<!--![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
+![node](https://img.shields.io/badge/Node.JS-44883E?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=White)
+![Vagrant](https://img.shields.io/badge/Vagrant-0078D4?style=for-the-badge&logo=vagrant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katilho&layout=compact&theme=dracula&hide_border=true)-->
-
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Katilho&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)  
