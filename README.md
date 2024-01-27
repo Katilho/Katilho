@@ -33,17 +33,24 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 - [Sistemas Distribuídos](https://github.com/Katilho/Trabalho-SD-2022-2023)
 ---
 
+#### 3<sup>rd</sup> year 2<sup>nd</sup> semester
+- [Aprendizagem e Decisões Inteligentes](https://github.com/Katilho/Trabalho-ADI-2022-2023)
+- [Computação Gráfica](https://github.com/Katilho/Trabalho-CG-2022-2023)
+- [Engenharia Web](https://github.com/Katilho/Trabalho-EW-2022-2023)
+---
+
+
 ### Languages and Tools
 <!--![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
-![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
+![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)<br>
 ![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![node](https://img.shields.io/badge/Node.JS-44883E?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)
+![express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)<br>
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=White)
 ![Vagrant](https://img.shields.io/badge/Vagrant-0078D4?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white)
