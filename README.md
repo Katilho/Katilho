@@ -7,8 +7,9 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 [![LinkedIn badge](https://img.shields.io/badge/-Pedro%20Martins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-martins-31700624b/)
 [![Email badge](https://img.shields.io/badge/-pedrocmartins12-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:pedrocmartins12@gmail.com)
 
-### University Projects 🎓
+## University Projects 🎓
 
+### Licenciatura em Engenharia Informática
 #### 1<sup>st</sup> year 1<sup>st</sup> semester
 - [Laboratórios de Informática I](https://github.com/Katilho/LI1)
 ---
@@ -39,8 +40,13 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 - [Computação Gráfica](https://github.com/Katilho/Trabalho-CG-2022-2023)
 - [Processamento de Linguagens](https://github.com/Katilho/Trabalho-PL-2022-2023)
 - [Engenharia Web](https://github.com/Katilho/Trabalho-EW-2022-2023)
----
 
+
+### Mestrado em Engenharia Informática
+#### 4<sup>th</sup> year 1<sup>st</sup> semester
+- [Engenharia de Serviços em Rede](https://github.com/Katilho/Trabalho-ESR-2023-2024)
+- [Aplicações e Serviços de Computação em Nuvem](https://github.com/Katilho/Trabalho-ASCN-2023-2024)
+---
 
 ### Languages and Tools
 <!--![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) -->
