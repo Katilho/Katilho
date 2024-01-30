@@ -39,7 +39,7 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 - [Aprendizagem e Decisões Inteligentes](https://github.com/Katilho/Trabalho-ADI-2022-2023)
 - [Computação Gráfica](https://github.com/Katilho/Trabalho-CG-2022-2023)
 - [Processamento de Linguagens](https://github.com/Katilho/Trabalho-PL-2022-2023)
-- [Engenharia Web](https://github.com/Katilho/Trabalho-EW-2022-2023)
+- [Engenharia Web](https://github.com/orlandopalmeira/Trabalho-EW-2022-2023)
 
 
 ### Mestrado em Engenharia Informática
