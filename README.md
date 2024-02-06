@@ -40,7 +40,7 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 #### 2<sup>nd</sup> year 2<sup>nd</sup> semester
 [ **17/20** ] - [Sistemas Operativos](https://github.com/Katilho/SO) <br>
 [ **17/20** ] - [Programação Orientada aos Objetos](https://github.com/Katilho/POO) <br>
-[ **19/20** ] - [Investigação Operacional](https://github.com/Katilho/IO) <br>
+[ **18/20** ] - [Investigação Operacional](https://github.com/Katilho/IO) <br>
 [ **18/20** ] - [Redes de Computadores](https://github.com/Katilho/RC) <br>
 
 ---
