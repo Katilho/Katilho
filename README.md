@@ -46,7 +46,7 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 ---
 
 #### 3<sup>rd</sup> year 1<sup>st</sup> semester
-[ **1/20** ] - [Inteligência Artificial](https://github.com/Katilho/Trabalho-Inteligencia-Artificial) <br>
+[ **18/20** ] - [Inteligência Artificial](https://github.com/Katilho/Trabalho-Inteligencia-Artificial) <br>
 [ **19/20** ] - [Sistemas Distribuídos](https://github.com/Katilho/Trabalho-SD-2022-2023) <br>
 [ **20/20** ] - [Comunicações por Computador](https://github.com/Miguelcj1/CC_TP2) <br>
 
