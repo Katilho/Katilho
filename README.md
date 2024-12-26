@@ -31,7 +31,7 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 
 ---
 
-### Licenciatura em Engenharia Informática (Bachelor's Degree in Software Engineering)
+### Licenciatura em Engenharia Informática *(Bachelor's Degree in Software Engineering)*
 #### 1<sup>st</sup> year 1<sup>st</sup> semester
 [ **14/20** ] - [Laboratórios de Informática I](https://github.com/Katilho/LI1) *(Informatics Labs I)*
 
@@ -64,7 +64,7 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 
 ---
 
-### Mestrado em Engenharia Informática (Master's Degree in Software Engineering)
+### Mestrado em Engenharia Informática *(Master's Degree in Software Engineering)*
 #### 1<sup>st</sup> year 1<sup>st</sup> semester
 [ **18/20** ] - [Engenharia de Serviços em Rede](https://github.com/Katilho/Trabalho-ESR-2023-2024) *(Network Services Engineering)* <br>
 [ **19/20** ] - [Aplicações e Serviços de Computação em Nuvem](https://github.com/Katilho/Trabalho-ASCN-2023-2024) *(Cloud Computing Applications and Services)* <br>
