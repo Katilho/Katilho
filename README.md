@@ -59,9 +59,15 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 ---
 
 ### Mestrado em Engenharia Informática
-#### 4<sup>th</sup> year 1<sup>st</sup> semester
+#### 1<sup>st</sup> year 1<sup>st</sup> semester
 [ **18/20** ] - [Engenharia de Serviços em Rede](https://github.com/Katilho/Trabalho-ESR-2023-2024)  <br>
 [ **19/20** ] - [Aplicações e Serviços de Computação em Nuvem](https://github.com/Katilho/Trabalho-ASCN-2023-2024) <br>
+
+#### 1<sup>st</sup> year 2<sup>nd</sup> semester 
+[ **20/20** ] - [Administração de Bases de Dados](https://github.com/katilho/Trabalho-ABD-2023-2024) <br> 
+[ **19/20** ] - [Arquiteturas Aplicacionais / Sistemas Interativos Confiáveis](https://github.com/katilho/Trabalho-AA-SIC-2023-2024) <br>
+[ **19/20** ] - [Agentes e Sistemas Multi-Agente](https://github.com/katilho/Trabalho-ASM-2023-2024) <br>
+[ **18/20** ] - [Sensorização e Ambiente](https://github.com/katilho/Trabalho-SA-2023-2024) <br>
 
 ---
 
