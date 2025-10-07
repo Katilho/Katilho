@@ -32,8 +32,9 @@ Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos 
 ---
 
 ### Licenciatura em Engenharia Informática *(Bachelor's Degree in Software Engineering)*
-#### 1<sup>st</sup> year 1<sup>st</sup> semester
+<!--1. #### 1<sup>st</sup> year 1<sup>st</sup> semester
 [ **14/20** ] - [Laboratórios de Informática I](https://github.com/Katilho/LI1) *(Informatics Labs I)*
+-->
 
 #### 1<sup>st</sup> year 2<sup>nd</sup> semester
 [ **17/20** ] - [Laboratórios de Informática II](https://github.com/Katilho/LI2) *(Informatics Labs II)*
