@@ -1,10 +1,12 @@
 ## Hello there! 👋
 
-Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos no Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt/EN/).  
-<!--I am Pedro Martins, a Software Engineering student at [Universidade do Minho](https://www.uminho.pt/EN/).-->
+I hold a Bachelor's degree and a Master's degree in Software Engineering from [Universidade do Minho](https://www.uminho.pt/EN/) *(Licenciado e Mestre em Engenharia Informática pela Universidade do Minho)*.  
+<!-- Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos no Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt/EN/).   -->
+
+
 
 ### Contacts:
-[![LinkedIn badge](https://img.shields.io/badge/-Pedro%20Martins-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-martins-31700624b/)
+[![LinkedIn badge](https://img.shields.io/badge/Pedro%20Martins-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NyAySDMuNTNhMS40NSAxLjQ1IDAgMCAwLTEuNDcgMS40M3YxNy4xNEExLjQ1IDEuNDUgMCAwIDAgMy41MyAyMmgxNi45NGExLjQ1IDEuNDUgMCAwIDAgMS40Ny0xLjQzVjMuNDNBMS40NSAxLjQ1IDAgMCAwIDIwLjQ3IDJaTTguMDkgMTguNzRoLTN2LTloM3Y5Wm0tMS41LTEwLjJhMS43NCAxLjc0IDAgMSAxIDEuNzQtMS43NCAxLjc0IDEuNzQgMCAwIDEtMS43NCAxLjc0Wm0xMi4zNSAxMC4ySDE1Ljl2LTQuMzhjMC0xLjA0LS4wMi0yLjM4LTEuNDUtMi4zOC0xLjQ1IDAtMS42NyAxLjEzLTEuNjcgMi4zdjQuNDZoLTN2LTloMi44OHYxLjIzaC4wNGExLjAxIDEuMDEgMCAwIDAgLjE0LS4xOWMuNTktLjk0IDEuNjUtMS41MSAyLjgtMS41MSAzIDAgMy41NSAxLjk3IDMuNTUgNC41M3Y0Ljk0WiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/pedro-martins-31700624b/)
 [![Email badge](https://img.shields.io/badge/-pedrocmartins12-c71610?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:pedrocmartins12@gmail.com)
 
 ### Languages and Tools
