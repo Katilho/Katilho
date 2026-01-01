@@ -83,6 +83,8 @@ I hold a Bachelor's degree and a Master's degree in Software Engineering from [U
 #### 2<sup>nd</sup> year 1<sup>st</sup> semester
 [ **18/20** ] - [Projeto de Informática](https://github.com/Katilho/Projeto-de-Informatica-2024-2025) *(Informatics Project)* <br>
 
+#### 2<sup>nd</sup> year 2<sup>nd</sup> semester
+[ **17/20** ] - [Dissertação de Mestrado](https://github.com/Katilho/Master-Thesis) *(Master Thesis Dissertation)* <br>
 
 ---
 
