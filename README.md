@@ -63,7 +63,7 @@ I hold a Bachelor's degree and a Master's degree in Software Engineering from [U
 [ **17/20** ] - [Aprendizagem e Decisões Inteligentes](https://github.com/Katilho/Trabalho-ADI-2022-2023) *(Learning and Intelligent Decisions)* <br>
 [ **19/20** ] - [Computação Gráfica](https://github.com/Katilho/Trabalho-CG-2022-2023) *(Computer Graphics)* <br>
 [ **17/20** ] - [Processamento de Linguagens](https://github.com/Katilho/Trabalho-PL-2022-2023) *(Language Processing)* <br>
-[ **20/20** ] - [Engenharia Web](https://github.com/orlandopalmeira/Trabalho-EW-2022-2023) *(Web Engineering)* <br>
+[ **20/20** ] - [Engenharia Web](https://github.com/Katilho/Trabalho-EW-2022-2023) *(Web Engineering)* <br>
 
 ---
 
