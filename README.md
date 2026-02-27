@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I hold a Bachelor's degree and a Master's degree in Software Engineering from [Universidade do Minho](https://www.uminho.pt/EN/) *(Licenciado e Mestre em Engenharia Informática pela Universidade do Minho)*.  
+I hold an **M.Sc.** and a **B.Sc.** in **Software Engineering** from [Universidade do Minho](https://www.uminho.pt/EN/) *(Mestre e Licenciado em Engenharia Informática pela Universidade do Minho)*.  
 <!-- Licenciado em Engenharia Informática. Atualmente estou a prosseguir os estudos no Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt/EN/).   -->
 
 
@@ -11,11 +11,14 @@ I hold a Bachelor's degree and a Master's degree in Software Engineering from [U
 
 ### Languages and Tools
 <!--![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) -->
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![CSHARP](https://img.shields.io/badge/C%20Sharp-9925eb?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)<br>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
@@ -23,13 +26,17 @@ I hold a Bachelor's degree and a Master's degree in Software Engineering from [U
 ![express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)<br>
+![MongoDB](https://img.shields.io/badge/Mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br>
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=White)
 ![Vagrant](https://img.shields.io/badge/Vagrant-0078D4?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-FFA500?style=for-the-badge&logo=apachespark&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30a2ff?style=for-the-badge&logoColor=white)
+
 
 ---
 
